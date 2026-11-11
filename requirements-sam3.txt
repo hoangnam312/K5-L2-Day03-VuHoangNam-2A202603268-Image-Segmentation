@@ -1,0 +1,5 @@
+# Optional local SAM 3 runtime. The checkpoint is downloaded separately after
+# requesting access on https://huggingface.co/facebook/sam3.
+ultralytics
+numpy
+pillow
